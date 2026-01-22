@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813914051628",
+    "project_id": "natya-raga-f8d80",
+    "storage_bucket": "natya-raga-f8d80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813914051628:android:89e8c924e95f14a86c6d89",
+        "android_client_info": {
+          "package_name": "com.example.natya_raga_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC3STPsxShndtO_44cwMFFhu9aj0Os4Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
